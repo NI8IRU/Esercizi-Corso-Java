@@ -1,4 +1,4 @@
-package Esercizi._2;
+package _2;
 public class Main {
     //Run this like before to execute all the exercises
     public static void main(String[] args) {
